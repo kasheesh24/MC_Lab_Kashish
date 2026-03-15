@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GSMSecuritySimulator</string>
+    <string name="rand_hint">Random Challenge (RAND) - Hex</string>
+    <string name="ki_hint">Secret Key (Ki) - Hex</string>
+    <string name="message_hint">Plaintext Message</string>
+    <string name="btn_auth">Generate Authentication (A3/A8)</string>
+    <string name="btn_encrypt">Encrypt Message (A5)</string>
+    <string name="results_header">Results</string>
+    <string name="sres_format">SRES: %1$s</string>
+    <string name="kc_format">Session Key (Kc): %1$s</string>
+    <string name="encrypted_format">Encrypted Message: %1$s</string>
+    <string name="error_input">Please enter RAND and Ki</string>
+    <string name="error_message">Please enter a message to encrypt</string>
+    <string name="error_kc">Generate Authentication first to get Kc</string>
+    <string name="auth_success">Authentication Keys Generated</string>
+</resources>

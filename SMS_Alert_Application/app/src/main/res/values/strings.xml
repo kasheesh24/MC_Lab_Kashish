@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMSAlertApp</string>
+    <string name="sms_status_text">This app is listening for incoming SMS messages. When an SMS arrives, you will receive a notification alert.</string>
+    <string name="simulate_sms">Simulate SMS</string>
+</resources>

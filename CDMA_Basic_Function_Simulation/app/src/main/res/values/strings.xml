@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CDMASimulator</string>
+    <string name="user_1_hint">User 1 Binary Data (e.g., 101)</string>
+    <string name="user_2_hint">User 2 Binary Data (e.g., 011)</string>
+    <string name="btn_encode">Encode</string>
+    <string name="btn_decode">Decode</string>
+    <string name="results_default">Results will appear here...</string>
+    <string name="title_cdma">CDMA Simulator</string>
+</resources>

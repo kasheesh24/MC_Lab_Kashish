@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS Location App</string>
+    <string name="latitude_label">Latitude: %1$s</string>
+    <string name="longitude_label">Longitude: %1$s</string>
+    <string name="accuracy_label">Accuracy: %1$s m</string>
+    <string name="get_location">Get Location</string>
+    <string name="location_not_found">Location not found. Try turning on GPS.</string>
+    <string name="permission_denied">Permission Denied! Cannot access location.</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrequencyReuseGame</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="reset_button">Reset Game</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_text">Frequency reuse is the process of using the same radio frequencies on radio transmitter sites within a geographic area that are separated by sufficient distance to cause minimal interference. In this game, tap the cells that you think reuse the same frequency as the highlighted reference cell (yellow).</string>
+</resources>

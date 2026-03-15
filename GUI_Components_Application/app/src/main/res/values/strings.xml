@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GUIComponentsDemo</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="gender_label">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hobbies_label">Hobbies:</string>
+    <string name="reading">Reading</string>
+    <string name="coding">Coding</string>
+    <string name="sports">Sports</string>
+    <string name="country_label">Country:</string>
+    <string name="submit">Submit</string>
+    <string name="result_header">Result:</string>
+    <string name="validation_error">Please enter your name</string>
+    <string name="submission_success">Form submitted successfully!</string>
+
+    <string-array name="countries_array">
+        <item>Select Country</item>
+        <item>USA</item>
+        <item>India</item>
+        <item>UK</item>
+        <item>Canada</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
